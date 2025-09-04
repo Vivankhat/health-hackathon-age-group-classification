@@ -40,16 +40,16 @@ The dataset includes multiple health-related features:
 - Accurate classification of individuals into age groups using machine learning.  
 - Identification of the most influential health features affecting age classification.  
 
-🖋 Author
-Vivan Khatri
+🖋 **Author**  
+Vivan Khatri  
+- GitHub: [Vivankhat](https://github.com/Vivankhat)  
+- Email: vivankhat20@gmail.com  
 
--GitHub: Vivankhat
-
--Email: vivankhat20@gmail.com
-   
 ## MIT License
-Copyright (c) 2025 Vivan Khatri
-Permission is hereby granted, free of charge, to any person obtaining a copy.
+Copyright (c) 2025 Vivan Khatri  
+Permission is hereby granted, free of charge, to any person obtaining a copy...
+
+
 
 
 
