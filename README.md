@@ -1,7 +1,6 @@
 # Health Hackathon – Age Group Classification
 
 [![Python](https://img.shields.io/badge/Python-3.10-blue)](https://www.python.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Jupyter Notebook](https://img.shields.io/badge/Notebook-Jupyter-orange)](https://jupyter.org/)
 
 ## 🏥 Project Overview
@@ -94,3 +93,4 @@ Vivan Khatri
 ## MIT License
 Copyright (c) 2025 Vivan Khatri
 Permission is hereby granted, free of charge, to any person obtaining a copy.
+
