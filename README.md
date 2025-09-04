@@ -42,11 +42,14 @@ The dataset includes multiple health-related features:
 
 🖋 Author
 Vivan Khatri
+
 -GitHub: Vivankhat
+
 -Email: vivankhat20@gmail.com
    
 ## MIT License
 Copyright (c) 2025 Vivan Khatri
 Permission is hereby granted, free of charge, to any person obtaining a copy.
+
 
 
